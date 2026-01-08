@@ -1,5 +1,3 @@
-Here is a **polished, professional, end-to-end README** suitable for **GitHub, recruiters, academic portfolios, and NIW-style evidence**.
-You can copy-paste this directly into your repository.
 
 ---
 
